@@ -1,0 +1,9 @@
+1. Faça um algoritmo que leia 2 numeros e faça uma subtração com eles, postriormente pergunte outros 2 números e faça uma multiplicação com os mesmos.
+
+2.Faça um algoritmo que leia 2 numeros e faça uma soma com eles, postriormente pergunte outros 2 números e faça uma divisão com os mesmos.
+
+3. Faça um algoritmo que calcule a area de um retangulo, perguntando ao usuário o tamanho do lado 1 e do lado 2, depois mostre na tela a área. Obs: area = lado1 * lado 2.
+
+4. Faça um algoritmo que calcule a area de um triangulo, perguntando ao usuário o tamanho da altura e da base, depois mostre na tela a área. Obs: area = (altura * base) / 2.
+
+5.Faça um algoritmo que peça os anos, meses e dias de vida e de acordo com isso calcule quantos dias ela ja viveu. 
